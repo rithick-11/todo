@@ -18,7 +18,7 @@ const onAddTask = (task) => {
   };
 
 
-
+  inputTag.value = ""
   toDoList.push(todoData);
 };
 
